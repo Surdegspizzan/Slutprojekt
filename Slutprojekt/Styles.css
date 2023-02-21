@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+}
+.FirstContainer{
+    background-image: url("Solar\ System.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: calc(100vh);
+}
